@@ -1,0 +1,130 @@
+.hr {  
+    margin: 5px; /* Обнуляем значение отступов */  
+    padding: 0;  
+    border: 50px; 
+   }  
+   ul.hr li {  
+    display: inline; /* Отображать как строчный элемент */  
+    margin-right: 200px; /* Отступ слева */  
+  margin-top: 50px;
+    padding: 3px;   
+  
+   }  
+#menu{  
+    
+    margin-right: 150px;  
+    float: left;
+    margin-left: 100px;
+    padding-top: 70px;
+}  
+#shirts{  
+    margin-right: 50px;  
+    text-decoration: none;  
+    color:black;  
+    margin-left: 380px;
+    margin-top: 30px;
+    padding-top: 30px;
+}  
+#Bags{  
+    margin-right: 50px;  
+    text-decoration: none;  
+    color:black;  
+    margin-top: 30px;
+    padding-top: 30px;
+}  
+#name{  
+    margin-right: 50px;  
+    text-decoration: none;  
+    color:black;  
+    display: inline-block;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+    margin-top: 30px;
+    padding-top: 30px;
+}  
+#gifts{  
+    margin-right: 30px;  
+    text-decoration: none;  
+    color:black;  
+    margin-top: 30px;
+    padding-top: 30px;
+}  
+#toys{  
+    margin-right: 200px;  
+    text-decoration: none;  
+    color:black;  
+    margin-top: 30px;
+    padding-top: 30px;
+}  
+#header{  
+    background-color: rgb(253,149,150);  
+    width: 1750px; 
+    height: 580px; 
+     
+     
+    margin-left: 70px; 
+    margin-top: 100px; 
+    margin-right: 70px; 
+     
+} 
+#buy{
+    float: right;
+    margin-right: 60px;
+    margin-top: 60px;
+}
+#body{ 
+    background-color: rgb(169,216,236); 
+    font-family: 'Gill Sans';  
+    height: 500px;
+    
+}  
+ 
+#cat{ 
+    
+    margin-left: 550px; 
+    
+} 
+ 
+#footer{ 
+    background-color: rgb(255, 255, 255);  
+    width: 1750px; 
+    height: 450px; 
+    box-shadow: 5px 7px 7px 7px rgba(0, 0, 0, 0.2);
+     
+    margin-left: 70px; 
+    margin-top: -100px; 
+    margin-right: 70px; 
+    display: block; 
+    text-align: center; 
+    position: relative;
+     
+     
+}
+.text{
+    
+    padding-top: 45px;
+   
+}
+.kitty{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 20px; 
+    color: rgb(14,49,58);
+}
+
+#back{
+    background-color: rgb(241,241,241);  
+    width: 1915px; 
+    height: 580px; 
+     
+     
+    
+    margin-top: -50px; 
+     
+    display: block; 
+    text-align: center; 
+    position: relative;  
+    bottom: 400px;
+    z-index: -50;
+    right: 20px;
+   
+   
+}
